@@ -2,7 +2,10 @@
 
 ![Banner](https://github.com/MarcelAlfaro/github-profile-assets/blob/main/Banner%20Github.png?raw=true)
 
----
+ Physicist with a Master’s in Applied Physics and strong expertise in data analysis, statistical
+ modeling, and scientific computing. Experienced in working with large-scale datasets in
+ high-performance environments. Passionate about solving real-world problems through
+ data-driven insights and effective communication.
 
 ### 🌱 I'm dedicated to continuously :
 - Growing and expanding my skills in data science, always seeking new challenges and knowledge to apply to real-world problems.
