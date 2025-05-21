@@ -4,7 +4,7 @@
 
 ---
 
-###🌱 I'm dedicated to continuously :
+### 🌱 I'm dedicated to continuously :
 - Growing and expanding my skills in data science, always seeking new challenges and knowledge to apply to real-world problems.
 
 ###  🔭 I’m looking to collaborate on:
