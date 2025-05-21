@@ -1,5 +1,5 @@
 ## Welcome to my Github Profile! 👋
-![Your Profile Banner](https://raw.githubusercontent.com/MarcelAlfaro/github-profile-assets/main/Banner%20Github.png)
+![Banner](github-profile-assets/Banner Github.png)
 
 
 🔭 I'm dedicated to continuously growing and expanding my skills in data science, always seeking new challenges and knowledge to apply to real-world problems.
