@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Profile! 👋
 
-![Banner](https://github.com/MarcelAlfaro/github-profile-assets/blob/main/Banner%20Github.png?raw=true)
+
 
  Physicist with a Master’s in Applied Physics and strong expertise in data analysis, statistical
  modeling, and scientific computing. Experienced in working with large-scale datasets in
